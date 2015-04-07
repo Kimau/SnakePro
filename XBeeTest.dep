@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\at91_cstartup.s79</file>
+      <file>$PROJ_DIR$\at91_low_level_init.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCDFont.r79</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pg12864.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.h</file>
+      <file>$PROJ_DIR$\config.h</file>
+      <file>$TOOLKIT_DIR$\inc\ioat91x40.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\AT91PIO.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r79</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\at91_lnk_ram.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\XBeeTest.pbd</file>
+      <file>$PROJ_DIR$\keypad.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\XBee.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\pg12864.h</file>
+      <file>$TOOLKIT_DIR$\inc\inarm.h</file>
+      <file>$PROJ_DIR$\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\at91.r79</file>
+      <file>$TOOLKIT_DIR$\lib\dl4tptinl8n.r79</file>
+      <file>$PROJ_DIR$\LCDFont.h</file>
+      <file>$PROJ_DIR$\XBee.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Delay.r79</file>
+      <file>$PROJ_DIR$\Debug\Exe\XBeeTxRx.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCDFont.pbi</file>
+      <file>$PROJ_DIR$\Delay.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsic.h</file>
+      <file>$PROJ_DIR$\Sound.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\at91_low_level_init.pbi</file>
+      <file>$PROJ_DIR$\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\keypad.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GameCore.pbi</file>
+      <file>$PROJ_DIR$\at91.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\at91.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\AT91PIO.r79</file>
+      <file>$PROJ_DIR$\Debug\Exe\XBeeTest.d79</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\XBeeTxRx.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\keypad.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\Sound.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\at91_low_level_init.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\XBee.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\Delay.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\at91_cstartup.r79</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\GameHeader.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Sound.r79</file>
+      <file>$PROJ_DIR$\AT91PIO.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GameCore.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\pg12864.r79</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\GameCore.c</file>
+      <file>$PROJ_DIR$\keypad.c</file>
+      <file>$PROJ_DIR$\LCDFont.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\pg12864.c</file>
+      <file>$PROJ_DIR$\Sound.c</file>
+      <file>$PROJ_DIR$\timer.c</file>
+      <file>$PROJ_DIR$\uart.c</file>
+      <file>$PROJ_DIR$\XBee.c</file>
+      <file>$PROJ_DIR$\at91.c</file>
+      <file>$PROJ_DIR$\AT91PIO.c</file>
+      <file>$PROJ_DIR$\Delay.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\at91_cstartup.s79</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>AARM</name>
+          <file> 8 9 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\at91_low_level_init.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\XBeeTest.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 10 50 38 30 46 18 40 34 36 6 4 54 59</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\XBeeTxRx.d79</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 14 41 28 2 49 24 51 48 15 58 12 43 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\XBeeTest.d79</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 14 41 28 57 2 55 49 24 51 48 45 15 58 12 43 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\XBeeTxRx.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 10 50 30 18 40 34 6 4 54 59</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\GameCore.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 47 3 13 7 61 23 19 11 5 60 8 9 37 21 52 39 35 22 56 20 17 31 33 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53 47 3 13 61 23 19 11 5 60 8 9 37 35 22 56 20 17 31 33 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\keypad.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39 17 31 56 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37 17 31 56 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LCDFont.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 3 13 7 61 23 19 11 60 8 9 37 21 52 39 35 22 56 20 17 31 33 27 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 3 13 61 23 19 11 60 8 9 37 35 22 56 20 17 31 33 27 53</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pg12864.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39 26 20 56 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37 26 20 56 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sound.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 33 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 33 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 3 13 7 61 23 19 11 8 9 37 21 52 39 22 35 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 3 13 61 23 19 11 8 9 37 22 35 32 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\XBee.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 3 13 7 61 23 19 11 60 22 20 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 3 13 61 23 19 11 60 22 20 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\at91.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\AT91PIO.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 9 37 21 52 39 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 9 37 56</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Delay.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

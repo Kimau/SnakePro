@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+        <Column0>100</Column0><Column1>27</Column1><Column2>27</Column2></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovEnabled>0</CodeCovEnabled><CodeCovShow>0</CodeCovShow></Disassembly>
+      <Debug-Log/>
+      <Build/>
+    </Static>
+    <Windows>
+      <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4898-14844</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>XBeeTxRx</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0>
+      <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15647-14847</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1>
+      <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26395-14850</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-4375-14853</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd2>
+    </Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\main.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>416</SelStart><SelEnd>416</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\uart.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\XBee.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>1275</SelStart><SelEnd>1275</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\XBee.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>72</SelStart><SelEnd>72</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\timer.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>454</SelStart><SelEnd>454</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-008ee6d8><key>IarIdePM1</key></Toolbar-008ee6d8></Sizes></Row0><Row1><Sizes><Toolbar-00de8768><key>DebuggerGui1</key></Toolbar-00de8768></Sizes></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>435</Bottom><Right>174</Right><x>-2</x><y>-2</y><xscreen>176</xscreen><yscreen>176</yscreen><sizeHorzCX>181443</sizeHorzCX><sizeHorzCY>259970</sizeHorzCY><sizeVertCX>181443</sizeVertCX><sizeVertCY>645494</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>435</Bottom><Right>174</Right><x>-2</x><y>-2</y><xscreen>176</xscreen><yscreen>176</yscreen><sizeHorzCX>181443</sizeHorzCX><sizeHorzCY>259970</sizeHorzCY><sizeVertCX>181443</sizeVertCX><sizeVertCY>645494</sizeVertCY></Rect></Wnd1></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>174</Bottom><Right>972</Right><x>-2</x><y>-2</y><xscreen>974</xscreen><yscreen>176</yscreen><sizeHorzCX>1004123</sizeHorzCX><sizeHorzCY>259970</sizeHorzCY><sizeVertCX>181443</sizeVertCX><sizeVertCY>259970</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

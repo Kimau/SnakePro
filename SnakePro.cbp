@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SnakePro" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SnakePro" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SnakePro" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AT91PIO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AT91PIO.h" />
+		<Unit filename="Delay.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Delay.h" />
+		<Unit filename="GameCore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GameHeader.h" />
+		<Unit filename="LCDFont.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LCDFont.h" />
+		<Unit filename="Sound.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sound.h" />
+		<Unit filename="XBee.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="XBee.h" />
+		<Unit filename="at91.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="at91.h" />
+		<Unit filename="at91_low_level_init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="config.h" />
+		<Unit filename="keypad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="keypad.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pg12864.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pg12864.h" />
+		<Unit filename="timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="timer.h" />
+		<Unit filename="uart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="uart.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

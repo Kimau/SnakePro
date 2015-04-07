@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>XBeeTxRx/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2></ColumnWidths>
+      </Workspace>
+      <Build/>
+      <TerminalIO/>
+      <CodeCoveragePlugin/>
+      <Profiling/>
+      <Watch>
+        <Format>
+          <struct_types/>
+          <watch_formats/>
+        </Format>
+      </Watch>
+      <Debug-Log/>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovEnabled>0</CodeCovEnabled><CodeCovShow>0</CodeCovShow></Disassembly>
+    </Static>
+    <Windows>
+      <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12486-25363</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>XBeeTxRx</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3>
+      <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20160-25833</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3034-26973</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd4>
+    </Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\main.c</Filename><XPos>0</XPos><YPos>11</YPos><SelStart>416</SelStart><SelEnd>416</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\uart.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\XBee.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>1275</SelStart><SelEnd>1275</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\XBee.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>72</SelStart><SelEnd>72</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Documents and Settings\Default\Desktop\AT91_C_Examples\XBeeTest\timer.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>454</SelStart><SelEnd>454</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-008ee6d8><key>IarIdePM1</key></Toolbar-008ee6d8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>481</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>154</xscreen><yscreen>154</yscreen><sizeHorzCX>158762</sizeHorzCX><sizeHorzCY>227474</sizeHorzCY><sizeVertCX>206185</sizeVertCX><sizeVertCY>713441</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>152</Bottom><Right>972</Right><x>-2</x><y>-2</y><xscreen>974</xscreen><yscreen>154</yscreen><sizeHorzCX>1004123</sizeHorzCX><sizeHorzCY>227474</sizeHorzCY><sizeVertCX>158762</sizeVertCX><sizeVertCY>227474</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
